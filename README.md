@@ -1,2 +1,2 @@
 # Data-Visualization
-Some of my Data Visualizations
+In this repository I'm uploading some of my Data Visualizations.
