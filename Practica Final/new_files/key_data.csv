@@ -1,0 +1,28 @@
+"key","frequency","key_mode","is_winner"
+"-",90,"Major",0
+"A Major",18,"Major",0
+"A Minor",27,"Menor",1
+"Ab Major",19,"Major",0
+"Ab Minor",18,"Menor",0
+"B Major",9,"Major",0
+"B Minor",29,"Menor",1
+"Bb Major",14,"Major",0
+"Bb Minor",22,"Menor",0
+"C Major",43,"Major",2
+"C Minor",21,"Menor",0
+"Cs Major",2,"Major",0
+"Cs Minor",4,"Menor",0
+"D Major",23,"Major",1
+"D Minor",25,"Menor",2
+"Db Major",13,"Major",0
+"Db Minor",13,"Menor",0
+"E Major",10,"Major",0
+"E Minor",24,"Menor",2
+"Eb Major",6,"Major",1
+"Eb Minor",16,"Menor",2
+"F Major",14,"Major",1
+"F Minor",24,"Menor",0
+"Fs Major",19,"Major",0
+"Fs Minor",16,"Menor",0
+"G Major",25,"Major",1
+"G Minor",21,"Menor",0
