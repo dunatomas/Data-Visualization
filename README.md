@@ -30,19 +30,24 @@ This project represents the culmination of the course and demonstrates my abilit
 - **Dataset selection & creativity**: I chose a dataset with diverse data types to enable a wide range of visualizations and explore innovative approaches.
 - **Data processing & preparation**: I processed, cleaned, and structured the data to make it ready for visualization.  
 - **Data-driven storytelling**: The project follows a clear narrative structure rather than isolated charts.
-- **Interactive & accessible visualizations**: The visualizations are designed to be interactive, informative, and accessible to a broad audience.
-- **Audience-focused design**: The visualizations are designed to be interactive, informative, and accessible to a broad audience.
+- **Interactive & accessible design**: The visualizations are designed to be interactive, informative, and accessible to a broad audience.
 
 > 🏆 **Recognition**:
 > This project was selected by the university as one of the best examples from the course and is publicly featured in the official Data Visualization student portfolio.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7f63ba5a-1227-4023-92f4-cd1d7cb69afe" width="800" alt="Final Project Example Chart"/>
+</p>
 
 ## 📁 Other Projects
 
 ### Mini Project
 
-This section includes an earlier mini project developed during the course.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4dd69f5a-e441-4c74-bee1-7812707a8bb1" width="400" alt="Mini Project Preview"/>
+</p>
 
-While more exploratory in nature, it reflects:
+This section includes an earlier mini project developed during the course. While more exploratory in nature, it reflects:
 
 * Early experimentation with visualization techniques unsing _Tableau_
 * The ability to design an effective data visualization using a **given fixed dataset**
