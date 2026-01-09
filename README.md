@@ -1,4 +1,4 @@
-# 📊 Data Visualization – Master’s Portfolio
+# 📊 Data Visualization Portfolio
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/14b28865-03fb-44dc-b137-bb10c460aa34" width="800" alt="Final Project Preview"/>
@@ -21,10 +21,10 @@ The highlight of this repository is the **Final Project**, which was selected by
 
 This project represents the culmination of the course and demonstrates my ability to:
 
-- Transform complex data into **clear and engaging visual narratives**
-- Apply **design principles** such as hierarchy, color theory, and visual balance
-- Choose the **right visualization types** to support analytical insights
-- Combine **data analysis and storytelling** for non-technical audiences
+- Transform complex data into **clear and engaging visual narratives**.
+- Apply **design principles** such as hierarchy, color theory, and visual balance.
+- Choose the **right visualization types** to support analytical insights.
+- Combine **data analysis and storytelling** for non-technical audiences.
 
 ### Key aspects of the project
 - **Dataset selection & creativity**: I chose a dataset with diverse data types to enable a wide range of visualizations and explore innovative approaches.
@@ -41,7 +41,7 @@ This project represents the culmination of the course and demonstrates my abilit
 
 ## 📁 Other Projects
 
-### Mini Project
+### Mini Project - _PAC 3 Hotels Portuguesos_
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/4dd69f5a-e441-4c74-bee1-7812707a8bb1" width="400" alt="Mini Project Preview"/>
@@ -49,18 +49,18 @@ This project represents the culmination of the course and demonstrates my abilit
 
 This section includes an earlier mini project developed during the course. While more exploratory in nature, it reflects:
 
-* Early experimentation with visualization techniques unsing _Tableau_
-* The ability to design an effective data visualization using a **given fixed dataset**
-* The learning process and progression throughout the subject
-* Initial approaches to data storytelling later refined in the final project
+* Early experimentation with visualization techniques unsing _Tableau_.
+* The ability to design an effective data visualization using a **given fixed dataset**.
+* The learning process and progression throughout the subject.
+* Initial approaches to data storytelling later refined in the final project.
 
 ## 🛠 Tools & Skills Demonstrated
 
-* Data Visualization & Information Design  
-* Visual Storytelling  
-* Design Principles for Data  
-* Data Visualization Tools: Tableau, Power BI, Flourish, Canva (interactive visual narratives)  
-* Analytical Thinking & Insight Communication
+* Data Visualization & Information Design.
+* Visual Storytelling.
+* Design Principles for Data.
+* Data Visualization Tools: Tableau, Power BI, Flourish, Canva (interactive visual narratives).  
+* Analytical Thinking & Insight Communication.
 
 ## 📬 Contact
 
